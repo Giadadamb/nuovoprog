@@ -1,5 +1,5 @@
 # Biografia 
-![alt text](images/Giada.jpg)
+<img src="../images/Giada.jpg" width="200" style="border-radius:70px;">
 
 Ciao! :smile:
 
