@@ -1,5 +1,5 @@
-# Biografia 
-<img src="../images/Giada.jpg" width="200" style="border-radius:70px;">
+# **Biografia** 
+<img src="../images/Giada.jpg" width="200" style="border-radius:100px;"{ align=left }>
 
 Ciao! :smile:
 
