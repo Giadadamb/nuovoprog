@@ -4,6 +4,7 @@ theme:
   name: material
   language: it
   logo: images/logo1.png 
+ 
   features:
     - navigation.instant
     - navigation.instant.progress
