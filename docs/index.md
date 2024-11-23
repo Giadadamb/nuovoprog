@@ -13,7 +13,7 @@
   Il testo all'interno di questa sezione avrà uno sfondo colorato.
 </div>
 
-Per aggiungere una sezione colorata ho inserito
+Per aggiungere una sezione colorata ho inserito:
 
     <html>
       <style>
