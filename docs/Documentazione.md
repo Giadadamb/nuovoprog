@@ -14,7 +14,9 @@ Le macroaree che analizzeremo sono 3:
 3. La storia della Piazza  (passato presente e futuro) con la ricerca di video di repertorio e attuali.
 
 
+
 ![Descrizione dell'immagine](images/multiculturalismo.jpeg)
 
 L’idea alla base potrebbe essere quella di riprendere una passeggiata, e quindi tutto il flusso della piazza, e poi analizzare nello specifico alcuni particolari.  
 
+vv
