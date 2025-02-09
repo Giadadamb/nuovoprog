@@ -15,6 +15,7 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
+    - navigation.footer
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -49,3 +50,8 @@ plugins:
  
   
 copyright: Copyright &copy; 2024 - 2025 Giada D'Ambrosio
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
