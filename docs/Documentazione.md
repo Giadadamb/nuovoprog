@@ -1,8 +1,24 @@
  
 #### Gruppo che approfondisce il tema del ***Multiculturalismo*** su Piazza Garibaldi
 
+Questa documentazione ha l’obiettivo di registrare e descrivere in dettaglio il processo di realizzazione del progetto, dalla concezione iniziale fino al prodotto finale. 
+Verranno dettagliati gli strumenti utilizzati, le persone e le risorse coinvolte, così da avere una visione completa e comprensibile del lavoro svolto.
 
-###### 13.01.2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### 13.01.2025  
 
 Dopo la presentazione delle tesi abbiamo deciso di approfondire i temi dei vari gruppi che si sono formati in laboratorio.
 Le macroaree che analizzeremo sono 3:
