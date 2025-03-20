@@ -1,0 +1,5 @@
+.post-date {
+    font-size: 12px;   /* La data sarà piccola */
+    color: #777;       /* Colore grigio chiaro per la data */
+    margin-bottom: 10px;  /* Un po' di spazio sotto la data */
+}
