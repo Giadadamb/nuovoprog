@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs mkdocs-material
-          pip install -r requirements.txt   # Installa le dipendenze dal requirements.txt          
+    
 
       - name: Build MkDocs site
         run: |
