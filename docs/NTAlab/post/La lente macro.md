@@ -6,6 +6,7 @@ Quelel che abbiamo usato noi sono pensate per essere messe sulle fotocamere di u
 
 La prima lente macro che abbiamo usato in piazza era piccolissima e si attaccava al telefono con una pinza. Abbiamo scattato molte belle foto interessanti, ma serviva molta attenzione, perché spesso le immagini venivano sfocate o avevano un bordo nero strano. Dopo un po', abbiamo provato una lente più grande e i risultati sono migliorati. Le foto sono più nitide, anche se, forse sono meno ravvicinate.
 
+
 ![alt text](../../images/lelentijpg.jpg)
 
 

@@ -11,3 +11,9 @@ Con l'organizzazione dei nuovi tavoli di lavoro, il gruppo che inizialmente si c
 
 
 
+
+<p class="post-date">10 Marzo 2025</p>
+<h1 class="title">Incontro ad Ingegneria</h1>
+Oggi siamo stati ad Ignegneria per incontare Andrea, Michele e Giovanni (il _Presidente_ per gli amici). 
+
+![alt text](../../images/Ingegneria.jpg) 
