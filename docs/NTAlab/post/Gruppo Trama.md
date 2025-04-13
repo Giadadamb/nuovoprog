@@ -17,3 +17,35 @@ Con l'organizzazione dei nuovi tavoli di lavoro, il gruppo che inizialmente si c
 Oggi siamo stati ad Ignegneria per incontare Andrea, Michele e Giovanni (il _Presidente_ per gli amici). 
 
 ![alt text](../../images/Ingegneria.jpg) 
+
+
+<p class="post-date">21 Marzo 2025</p>
+<h1 class="title">Frottage su altre superfici</h1>
+
+Oggi in Piazza Garibaldi abbiamo fatto delle prove su altre superfici, come il pavimento gommato, le corde della giostra vicino la _Portineria_, le reti del campo di Basket, e le mattonelle del pavimento.
+
+
+
+</video>
+<video width="600" controls>
+  <source src="video/videofrtottage.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+<p class="post-date">24 Marzo 2025</p>
+<h1 class="title">Dalle <strong>lenzuola</strong> alla <strong>carta</strong></h1>
+
+
+Il censimento vegetale della piazza è stato __*temporaneamente sospeso*__. 
+Ci siamo chiesti se fossero davvero necessarie superfici così ampie (come le lenzuola) per raccogliere dati, e soprattutto se fosse sufficiente imprimere solo trama solo gli alberi.
+Da qui è nata una nuova direzione: sospendere il frottage sulle lenzuola e iniziare a sperimentare direttamente con la carta.
+
+Questo perché crediamo ancora nel frottage come strumento per conoscere il territorio e pretesto per tessere relazioni con chi questo territorio lo attraversa quotidianamente (ma non sta ancora succedendo).
+
+Quindi ecco la lista dei nostri nuovi materiali: 
+
+| Oggetto      | Cratateristiche |
+| ----------- | ----------- |
+| Foglio di carta      | per adesso ha le dimensioni di un A5 e uno spessore di 135/200gr      |
+| Pittura   | è un inchiostro a base di acqua, lavabile e ad asciugatura rapida |
+| Argilla polimerica industraile (es. _Fimo_) | pasta modellabile, che non si asciuga all'aria; è ideale come stampo |
