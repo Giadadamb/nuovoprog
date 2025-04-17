@@ -5,4 +5,4 @@ Sul retro di ogni cartoncino ci sono segnate le informazioni più importanti: la
 Li abbiamo appesi al muro, uno accanto all’altro, accostandoli per soggetto (perché molto spesso abbiamo provato diverse tecniche sullo stesso elemento).
 
 Abbiamo anche un catalogo digitale delle porve:
-[Apri il documento](https://docs.google.com/document/d/12AIHLc0RvvurcrAS5_sDQkBSLV6eEvbAfCycROGGsew/edit?usp=sharing)
+[Guarda qui!](https://docs.google.com/document/d/12AIHLc0RvvurcrAS5_sDQkBSLV6eEvbAfCycROGGsew/edit?usp=sharing)
