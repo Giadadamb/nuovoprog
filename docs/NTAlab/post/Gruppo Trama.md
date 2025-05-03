@@ -89,3 +89,24 @@ Detto ciò, abbiamo fatto alcune prove in piazza: ci siamo ripresi mentre cammin
 ![alt text](../../images/panoramicaparcheggio.jpg)
 
 Per quanto riguarda il Frottage, abbiamo continuato a scendere in piazza per rivelare le superfici presenti, e in questo momento stiamo catalogando e caricando tutte le prove sul Drive. Alcuni di noi stanno anche lavorando alla nuova forma del timbro in 3D (che usiamo come supporto dove attaccare l'argilla light), per ottimizzare il processo e il funzionamento generale. Abbiamo inoltre pensato di organizzare una prova ufficiale del workshop di Frottage il 30/04, coinvolgendo circa 25 persone inesperte per simulare come potrebbe svolgersi l’attività in piazza.
+
+
+<p class="post-date">30 Aprile 2025</p>
+<h1 class="title">Preparazione del Workshop di Maggio</strong></h1>
+![alt text](../../images/8-9maggio.png)
+
+
+L'8 e il 9 Maggio 2025 si terrà a Napoli il seminario “Identità in Movimento”, organizzato dal CoNNGI.
+L’iniziativa, in collaborazione con il Ministero del Lavoro e delle Politiche Sociali, metterà al centro il ruolo dell’arte come strumento di inclusione, partecipazione e costruzione identitaria per le nuove generazioni, con particolare attenzione ai giovani con background migratorio.
+
+Noi parteciperemo come _Mistake_ giovedì 8 maggio al panel dedicato alla partecipazione. 
+
+[Qui il programma dell'evento](https://www.coopdedalus.it/evento/protagonisti-le-nuove-generazioni-italiane-si-raccontano-ix-edizione/)
+
+Ci stiamo organizzando insieme al gruppo documentario: loro faranno delle interviste insieme alla redazione di RadioGogo, mentre noi faremo frottage con l'argilla light.
+![alt text](../../images/descrizione.png)
+
+Oggi abbiamo incontrato, nella sede di Officine Gomitoli all'ex Lanificio, Fatima, Joe e l'artista Ariane Stoeveken per organizzare le ultime cose.
+Abbiamo capito che il nostro gruppo di partecipanti potrà prenotarsi al workshop tramite il form, e scegliere in anticipo quale delle due attività fare. 
+Questo per noi è importante perché possiamo capire il numero di partecipanti da prendere in considerazione per capire quanto materiale preparare.
+Dovrebbero essere circa 50 partecipanti (magari 25 con _Documentario_ e 25 con _Frottage_). 
