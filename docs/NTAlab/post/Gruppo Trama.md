@@ -1,3 +1,11 @@
+---
+title: "Gruppo Trama"
+order: 1
+---
+
+<video controls src="video/videofrtottage.mp4" title="Title"></video>
+
+
 
 <p class="post-date">20 Febbraio 2025</p>
 <h1 class="title">Trama del territorio</h1>

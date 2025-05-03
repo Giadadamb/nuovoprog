@@ -1,3 +1,7 @@
+---
+title: "La lente macro"
+order: 3
+---
 La **lente macro** è un tipo di lente fotografica che permette di scattare immagini di oggetti molto piccoli a una distanza ravvicinata, rivelando dettagli che non sono visibili ad occhio nudo, come le _venature di una foglia_ e la _texture di un tessuto_.
 Quelel che abbiamo usato noi sono pensate per essere messe sulle fotocamere di un telefono.
 
