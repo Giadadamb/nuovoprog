@@ -110,3 +110,26 @@ Oggi abbiamo incontrato, nella sede di Officine Gomitoli all'ex Lanificio, Fatim
 Abbiamo capito che il nostro gruppo di partecipanti potrà prenotarsi al workshop tramite il form, e scegliere in anticipo quale delle due attività fare. 
 Questo per noi è importante perché possiamo capire il numero di partecipanti da prendere in considerazione per capire quanto materiale preparare.
 Dovrebbero essere circa 50 partecipanti (magari 25 con _Documentario_ e 25 con _Frottage_). 
+
+<p class="post-date">7 Maggio 2025</p>
+<h1 class="title">Ma cosa succederà domani?</strong></h1>
+L'idea prevede l’utilizzo di quattro lettere rosse in spugna, usate lo scorso anno a Procida. 
+In una prima fase del workshop, durante la parte teorica, le lettere comporranno la parola “cittadinanza”, posizionata sulle scale dell’[Arena](https://maps.app.goo.gl/ks14WNqP3FkQLr4i7)
+Una volta terminata la parte teorica, quattro lettere (le più stabili) verranno selezionate dalla scritta e riutilizzate come postazioni nei pressi della portineria, sotto l’ombra degli alberi. Qui i partecipanti troveranno tutto il materiale necessario per il frottage.
+
+Le lettere sono già state trasferite all’ex Lanificio, nella sede di Dedalus, e saranno portate in piazza poco prima dell’inizio del workshop.
+
+
+
+<p class="post-date">8 Maggio 2025</p>
+<h1 class="title">Workshop in piazza</strong></h1>
+
+Oggi in laboratorio completiamo gli ultimi preparativi. In particolare, durante la mattinata,abbiamo preparato l’impasto di argilla light (circa 20 panetti, 4 per ogni shopper)
+con la solita ricetta.  
+
+
+
+Ma cosa contengono le shopper?
+
+
+
