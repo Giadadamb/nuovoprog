@@ -133,3 +133,11 @@ Ma cosa contengono le shopper?
 
 
 
+<p class="post-date">19 Aprile 2025</p>
+<h1 class="title">Turbogiornata per l'immersive reserch</strong></h1>
+
+Ci siamo divisi in gruppi, ognuno con il proprio Layer (noi sempre quello di _Trama del territorio_)
+La prima fase è stata di SWOT, che è una pratica di rielaborazione dati e pianificazione del lavoro per valutare i punti di forza (S), le debolezze (W), le opportunità (O) e le minacce (T).
+Poi c'è stato tutto il lavoro sulle cartelle Drive: abbiamo controllato e caricato tutto il materiale fotografico raccolto durante l'anno, scritto il nostro concept, i materiali usati, le tecniche e le varie sperimentazioni. 
+
+[Qui il drive](https://drive.google.com/drive/folders/16OfVmQJghyTqqmana7EKatjnMq1Z8fsN?fbclid=IwY2xjawKfIDVleHRuA2FlbQIxMABicmlkETBxTUJoSlJnOHdHc0Z3SXY1AR7Ng1w2HSpy_eLXU-5W-e47g6BDWOD0fl0pj8ad9fANkS1OKAx7NxqDeUfymA_aem_b88DKaEcEwaLgy5KLQvkxA)
