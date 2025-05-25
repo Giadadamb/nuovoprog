@@ -3,7 +3,7 @@ title: "Gruppo Trama"
 order: 1
 ---
 
-<video controls src="video/videofrtottage.mp4" title="Title"></video>
+
 
 
 

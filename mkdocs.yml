@@ -1,10 +1,10 @@
 site_name: GiadadambNTA
 site_url: https://giadadamb.github.io/nuovoprog/
+
 theme: 
   name: material
   language: it
   logo: images/logo1.png 
- 
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -25,7 +25,6 @@ theme:
       primary: teal
       accent: blue
   
-
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
@@ -37,18 +36,26 @@ theme:
   font:
     text: Prompt
 
+nav:
+  - Home: index.md
+  - Biografia: about.md
+  - Documentazione: Documentazione.md
+  - NTAlab:
+      - "Gruppo Trama": NTAlab/post/Gruppo-Trama.md
+      - "Il Frottage": NTAlab/post/Il-Frottage.md
+      - "La lente macro": NTAlab/post/La-lente-macro.md
+      - "La Panoramica inversa": NTAlab/post/La-Panoramica-inversa.md
+      - "Gruppo Bioplastica": NTAlab/post/Gruppo-Bioplastica.md
+      - "La Catalogazione": NTAlab/post/La-Catalogazione.md
+
+
 markdown_extensions:
-
   - attr_list
-
-plugins:
-  - search
-  
- 
-  
-copyright: Copyright &copy; 2024 - 2025 Giada D'Ambrosio
-
-markdown_extension:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+plugins:
+  - search
+
+copyright: Copyright © 2024 - 2025 Giada D'Ambrosio
