@@ -124,10 +124,8 @@ Le lettere sono già state trasferite all’ex Lanificio, nella sede di Dedalus,
 <p class="post-date">8 Maggio 2025</p>
 <h1 class="title">Workshop in piazza</strong></h1>
 
-Oggi in laboratorio completiamo gli ultimi preparativi. In particolare, durante la mattinata,abbiamo preparato l’impasto di argilla light (circa 20 panetti, 4 per ogni shopper)
+Oggi in laboratorio completiamo gli ultimi preparativi. In particolare, durante la mattinata, abbiamo preparato l'impasto di argilla light (circa 20 panetti, 4 per ogni shopper)
 con la solita ricetta.  
-
-
 
 Ma cosa contengono le shopper?
 
